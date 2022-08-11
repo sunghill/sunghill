@@ -1,14 +1,12 @@
 ### Hi there!
 
-<!--
-**sunghill/sunghill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Profile 
+
+Product Quality Leader with industry experience of 10 years and proficiency in the delivery of complex B2B SaaS and Banking applications. Strong understanding of data science concepts with experience in managing machine learning projects. Broad exposure of interaction - product & technology, solutions, client success, implementation and customer marketing.
 
 
-
-Profile: Product Quality Leader with industry experience of 10 years and proficiency in the delivery of complex B2B SaaS and Banking applications. Strong understanding of data science concepts with experience in managing machine learning projects. Broad exposure of interaction - product & technology, solutions, client success, implementation and customer marketing.
-
-
-SKILLS
+### SKILLS
 Project Management (Agile/Waterfall) 
 Product Management
 Research
