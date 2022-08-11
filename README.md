@@ -7,15 +7,15 @@ Product Quality Leader with industry experience of 10 years and proficiency in t
 
 
 ### SKILLS
-Project Management (Agile/Waterfall) 
-Product Management
-Research
-Data Science
-Supervised, Unsupervised, Deep Learning
-Process Mining
-Quality Assurance
-Programming
-Problem Solving
-People Management
-Technology Management
+Project Management (Agile/Waterfall)   
+Product Management   
+Research  
+Data Science    
+Supervised, Unsupervised, Deep Learning   
+Process Mining    
+Quality Assurance   
+Programming  
+Problem Solving   
+People Management   
+Technology Management  
 Leadership
