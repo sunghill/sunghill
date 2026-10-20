@@ -3,4 +3,4 @@
 
 ### Profile 
 
-Product Manager with experience in managing machine learning projects, and expertise in testing and releasing features at scale.
+AI/ML Product and Project Manager with experience in managing machine learning and AI projects, and expertise in testing and releasing features at scale.
